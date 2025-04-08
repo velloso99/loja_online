@@ -26,6 +26,12 @@ font-family: 'Roboto', sans-serif;
 ::-webkit-scrollbar{
     display: none;
 }
+h1{
+    font-family: 'Marhey', cursive;
+    text-shadow: 4px 4px 6px #464646;
+    font-weight: 500;
+    font-size: 20px, 2,8vw;
+}
 
 /*---------HEADER------------*/
 header{
